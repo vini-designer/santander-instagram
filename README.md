@@ -1,2 +1,2 @@
 # santander-instagram
-Desafio do Bootcamp Santander. Reconstrução a página inicial do Instagram.
+Desafio do Bootcamp Santander. Reconstrução da página inicial do Instagram.
